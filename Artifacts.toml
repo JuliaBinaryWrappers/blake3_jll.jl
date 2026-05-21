@@ -1,0 +1,160 @@
+[[blake3]]
+arch = "aarch64"
+git-tree-sha1 = "2cd2a6feefdead55c7bfccc1bcfc98cccf103cdd"
+os = "macos"
+
+    [[blake3.download]]
+    sha256 = "82c8fa284ec0f54f167db3c5f19c591c6b3c12c369dd8dec770ced36c56c7999"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.aarch64-apple-darwin.tar.gz"
+[[blake3]]
+arch = "aarch64"
+git-tree-sha1 = "98d9642bc93bf941cbc63e61b65815e7b3079249"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "9c51f1248b53758d045658e9a33b31fd6aa31df71cfaffd64d92f115ba75710d"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.aarch64-linux-gnu.tar.gz"
+[[blake3]]
+arch = "aarch64"
+git-tree-sha1 = "5fad036b63ba261ed631a065c85e9c56a4e57629"
+libc = "musl"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "503b6a0f26349ce8dbf88bd824fdfd1c8818398a54a29717d4eb0bc06725099f"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.aarch64-linux-musl.tar.gz"
+[[blake3]]
+arch = "aarch64"
+git-tree-sha1 = "ee83d14acf599d0e437da258ff9cbc41db00d879"
+os = "freebsd"
+
+    [[blake3.download]]
+    sha256 = "c7fc572178f3b30b29756bb128aae9624debdaf61e38cd202d72c0a8280f4986"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.aarch64-unknown-freebsd.tar.gz"
+[[blake3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4a7c013e31d678a0445265b4b907413e6c9633f"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "3ccbf460c41f0e9402445619b87df23f67e780039d4f4c9ea111f91490a96b0d"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.armv6l-linux-gnueabihf.tar.gz"
+[[blake3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8937e2cc16da601831ea90bfa04a364cb0d6025d"
+libc = "musl"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "cbc35855c0cb501614fa940ba7a602f68f3c2c0ee9324cbc496a28ef17c2901c"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.armv6l-linux-musleabihf.tar.gz"
+[[blake3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4f25de0554ab89641d6dd52c760a9eab26c1723f"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "fbaf3551d829d2f4d82168ebaf84f4c2bead771d7bdd6cecd4e8be3028d409d7"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.armv7l-linux-gnueabihf.tar.gz"
+[[blake3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f771ed245245a9b6015756412783bba030d7649f"
+libc = "musl"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "e2361b1a4183415252134f86f43b5538415a51e276b26d0bddc8e49d08dff163"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.armv7l-linux-musleabihf.tar.gz"
+[[blake3]]
+arch = "i686"
+git-tree-sha1 = "554566c149b4f0b9c0b62e3ff214252322c62b85"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "106aa97160aef129dafd0a0c9210ca91c6eefb98c64973bd66ef8a1d19e2a450"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.i686-linux-gnu.tar.gz"
+[[blake3]]
+arch = "i686"
+git-tree-sha1 = "2afc89b025ddc5670353aaffb93a0f39d6e2f1ea"
+libc = "musl"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "e15ca711cdfc4cfe352b93ed8783c8711c4d1459432a585754520bc76ffedbe3"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.i686-linux-musl.tar.gz"
+[[blake3]]
+arch = "i686"
+git-tree-sha1 = "384dfc51a886e86b5aad3a5ee34fd082dffe215a"
+os = "windows"
+
+    [[blake3.download]]
+    sha256 = "f32bd2263a2e05d3c3e7b5f136c167105b75157b9ca305833550e390c19e2070"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.i686-w64-mingw32.tar.gz"
+[[blake3]]
+arch = "powerpc64le"
+git-tree-sha1 = "f331e2495d0934ac712e345ddda8b60a12d913f6"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "98dcee7ff6c54c319a4d657817cc7a783fad913933c26ddfb552488c3464d046"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.powerpc64le-linux-gnu.tar.gz"
+[[blake3]]
+arch = "riscv64"
+git-tree-sha1 = "b77da799d325aefb6b4e2122aa831fcaac6cc158"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "1f274a0acc16fdf7e0c1032ab308cc2884b6965980102e3f619516f7010283fd"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.riscv64-linux-gnu.tar.gz"
+[[blake3]]
+arch = "x86_64"
+git-tree-sha1 = "1af2e58ee0b34a2a33f8b045af3246148b417e10"
+os = "macos"
+
+    [[blake3.download]]
+    sha256 = "f4ee4a17a178fb41bec6ae9f744a610c43f8394f8562620314e1e3c9884e6419"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.x86_64-apple-darwin.tar.gz"
+[[blake3]]
+arch = "x86_64"
+git-tree-sha1 = "9922921e5d1fb11b3a355a38b06ba24cd918fb0d"
+libc = "glibc"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "ae99d7ebeb9f1b92758c411b284a7149a54af4c7cbb3c2d40237c0c52d665e94"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.x86_64-linux-gnu.tar.gz"
+[[blake3]]
+arch = "x86_64"
+git-tree-sha1 = "3089b2d49291f6df77a01a2e1ecd251ff2ae199d"
+libc = "musl"
+os = "linux"
+
+    [[blake3.download]]
+    sha256 = "0a4bcb897780094fca2c163555542207a66154c25cc949ebe6bad45d48699bc8"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.x86_64-linux-musl.tar.gz"
+[[blake3]]
+arch = "x86_64"
+git-tree-sha1 = "51eb644ae7229dc07d1c63ae379ca91f15fdcd52"
+os = "freebsd"
+
+    [[blake3.download]]
+    sha256 = "815ac6b0e7ffe39dce0592f5d6e45d709db47490f2d60c8f0eba413eef5cec15"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.x86_64-unknown-freebsd.tar.gz"
+[[blake3]]
+arch = "x86_64"
+git-tree-sha1 = "ac46462f23fa7ba43692d93caf294268ec5601fc"
+os = "windows"
+
+    [[blake3.download]]
+    sha256 = "382e4798837d5545054b412c5071ddee0a20c9aaa0d995fff11f6d2e1edd874d"
+    url = "https://github.com/JuliaBinaryWrappers/blake3_jll.jl/releases/download/blake3-v1.8.5+0/blake3.v1.8.5.x86_64-w64-mingw32.tar.gz"
